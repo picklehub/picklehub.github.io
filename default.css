@@ -192,7 +192,7 @@
 		display: inline-block;
 		margin-top: 2em;
 		padding: 1em 2em 1em 2em;
-		background: #458f0b;
+		background: #F2600B;
 		border-radius: 30px;
 		letter-spacing: 0.20em;
 		text-decoration: none;
@@ -290,7 +290,7 @@
 	#header-wrapper
 	{
 		overflow: hidden;
-		background: #458f0b url(images/bg.png) repeat;
+		background: #F2600B url(images/bg.png) repeat;
 	}
 
 	#header
@@ -365,8 +365,8 @@
 
 	#menu .current_page_item a
 	{
-		background: #41880a;
-		border: 1px solid #3d7f0b;
+		background: #F2600B;
+		border: 1px solid #FFF;
 		border-radius: 20px;
 	}
 
@@ -397,7 +397,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		background: #FFF;
+		background: #151515;
 	}
 
 	#page
@@ -411,12 +411,14 @@
 		text-transform: uppercase;
 		font-size: 2.6em;
 		font-weight: 300;
-		color: rgba(0,0,0,0.9);
+		color: rgba(255,255,255,0.5
+0,0,0,0.9);
 	}
 
 	#page p
 	{
-		color: rgba(0,0,0,0.8);
+		color: rgba(255,255,255,0.5
+0,0,0,0.9);
 	}
 
 /*********************************************************************************/
