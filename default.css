@@ -7,7 +7,7 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #151515 url(images/bg.png) repeat;
+		background: #006600 url(images/bg.png) repeat;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 12pt;
 		font-weight: 300;
@@ -192,7 +192,7 @@
 		display: inline-block;
 		margin-top: 2em;
 		padding: 1em 2em 1em 2em;
-		background: #F2600B;
+		background: #00cc00;
 		border-radius: 30px;
 		letter-spacing: 0.20em;
 		text-decoration: none;
@@ -290,7 +290,7 @@
 	#header-wrapper
 	{
 		overflow: hidden;
-		background: #F2600B url(images/bg.png) repeat;
+		background: #006600 url(images/bg.png) repeat;
 	}
 
 	#header
@@ -365,7 +365,7 @@
 
 	#menu .current_page_item a
 	{
-		background: #F2600B;
+		background: #228B22;
 		border: 1px solid #FFF;
 		border-radius: 20px;
 	}
